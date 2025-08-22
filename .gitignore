@@ -1,0 +1,10 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+
+
+
+# Environment files (if any)
+.env
+*.log
